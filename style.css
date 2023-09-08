@@ -1,0 +1,25 @@
+.intro{
+    text-align: center;
+   display: block;
+    
+
+}
+ #four{
+    display: inline-block;
+ }
+ #first{
+    display: inline-block;
+    margin-left: 100px;
+   
+ }
+
+ #second{
+    display: inline-block;
+    margin-left: 100px;
+ }
+
+ #third{
+    display: inline-block;
+    margin-left: 100px;
+ }
+
